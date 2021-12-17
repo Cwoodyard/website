@@ -1,0 +1,13 @@
+https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
+
+Ideas
+
+Site Design
+    Shape of a V in the background similar to circles on Dyno.gg
+    Nav bar with text logo and different pages
+        Left
+            Logo and hyperlinks to other pages for support or github, twitch, etc.
+        Right
+            Has login pages for Minecraft server hosting and discord bot management
+
+
