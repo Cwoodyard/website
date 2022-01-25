@@ -1,10 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import '../styles.css';
 
 function Navigation() {
   return (
-    <div className="navigation">
-      <nav className="navbar navbar-expand navbar-dark bg-dark">
+    <div className="navigation bg-black">
+      <nav className="navbar navbar-expand bg-dark">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
             V1P3R_Hax
@@ -29,7 +30,9 @@ function Navigation() {
             </ul>
           <div>
           <div className="navbar-nav ml-auto text-white">
-            <p className="nav-item">login</p>
+            
+    <button class="px-4 py-1 text-sm text-purple-600 font-semibold rounded-full border border-purple-200 hover:text-white hover:bg-purple-600 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">Message</button>
+            
           </div>
             
           </div>
@@ -104,7 +107,7 @@ function Navigation() {
       <a href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Calendar</a>
     </div> 
   </div>
-</nav>*/}
+</nav> */}
 
     </div>
   );

@@ -8,16 +8,10 @@ function Home() {
               <path d='m 0 0 l 1600 4000 l 800 0 l 1600 -4000 l -800 0 l -1200 3200 l -1200 -3200 l -800 0' />
             </svg> */}
       <div class="container">
-        <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
+        <div class="row align-items-center my-5 text-center">
+          
           <div class="col-lg-5">
-            <h1 class="font-weight-light">V1P3R_HAX</h1>
+            <h1 class="color-green font-weight-light">V1P3R_HAX</h1>
             <h3>Cole Woodyard</h3>
             <p>
               Programmer, Hands on Learner, and Tinkerer.
